@@ -47,3 +47,10 @@ AI-Powered Virtual Museum Guide leverages multimodal artificial intelligence (co
 ## Impact
 
 We break accessibility and language barriers, empowering museums to deliver engaging, personalized experiences to every visitor.
+
+## Contact
+
+Harshitha M V  
+Acharya Institute of Technology, Bangalore  
+Email: Harshithamv2642004@gmail.com
+
