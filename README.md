@@ -52,5 +52,5 @@ We break accessibility and language barriers, empowering museums to deliver enga
 
 Harshitha M V  
 Acharya Institute of Technology, Bangalore  
-Email: Harshithamv2642004@gmail.com
+Email: harshithamv2642004@gmail.com
 
